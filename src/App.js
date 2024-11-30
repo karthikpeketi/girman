@@ -12,7 +12,7 @@ const App = () => {
 					<Header />
 					<div className="flex flex-col items-center w-full h-[90%] overflow-y-auto bg-gradient">
 						<Routes>
-							<Route path="/" element={<SearchPage />} />
+							<Route path="/girman" element={<SearchPage />} />
 							<Route path="/search" element={<SearchResults />} />
 						</Routes>
 					</div>
