@@ -1,0 +1,302 @@
+[
+	{
+		"id": 1,
+		"firstName": "Anjali",
+		"lastName": "Sharma",
+		"address": "Mumbai",
+		"phone": "9000000000",
+		"location": "19.0760° N, 72.8777° E",
+		"profileImage": "https://i.pravatar.cc/150?img=",
+		"details": "A software engineer working in Mumbai."
+	},
+	{
+		"id": 2,
+		"firstName": "Emily",
+		"lastName": "Clark",
+		"address": "Delhi",
+		"phone": "8000000000",
+		"location": "28.7041° N, 77.1025° E",
+		"profileImage": "https://i.pravatar.cc/150?img=",
+		"details": "A digital marketing expert based in Delhi."
+	},
+	{
+		"id": 3,
+		"firstName": "Rajesh",
+		"lastName": "Kumar",
+		"address": "Chennai",
+		"phone": "7500000000",
+		"location": "13.0827° N, 80.2707° E",
+		"profileImage": "https://i.pravatar.cc/150?img=",
+		"details": "A data analyst living in Chennai."
+	},
+	{
+		"id": 4,
+		"firstName": "Sara",
+		"lastName": "Thomas",
+		"address": "Bangalore",
+		"phone": "7000000000",
+		"location": "12.9716° N, 77.5946° E",
+		"profileImage": "https://i.pravatar.cc/150?img=",
+		"details": "An HR manager residing in Bangalore."
+	},
+	{
+		"id": 5,
+		"firstName": "Manoj",
+		"lastName": "Singh",
+		"address": "Hyderabad",
+		"phone": "9500000000",
+		"location": "17.3850° N, 78.4867° E",
+		"profileImage": "https://i.pravatar.cc/150?img=",
+		"details": "A graphic designer in Hyderabad."
+	},
+	{
+		"id": 6,
+		"firstName": "John",
+		"lastName": "Doe",
+		"address": "Pune",
+		"phone": "9800000000",
+		"location": "18.5204° N, 73.8567° E",
+		"profileImage": "https://i.pravatar.cc/150?img=",
+		"details": "An IT professional in Pune."
+	},
+	{
+		"id": 7,
+		"firstName": "Meera",
+		"lastName": "Rao",
+		"address": "Kolkata",
+		"phone": "8100000000",
+		"location": "22.5726° N, 88.3639° E",
+		"profileImage": "https://i.pravatar.cc/150?img=",
+		"details": "A teacher based in Kolkata."
+	},
+	{
+		"id": 8,
+		"firstName": "Vikas",
+		"lastName": "Patel",
+		"address": "Ahmedabad",
+		"phone": "8300000000",
+		"location": "23.0225° N, 72.5714° E",
+		"profileImage": "https://i.pravatar.cc/150?img=",
+		"details": "An entrepreneur in Ahmedabad."
+	},
+	{
+		"id": 9,
+		"firstName": "Nina",
+		"lastName": "Kapoor",
+		"address": "Lucknow",
+		"phone": "8600000000",
+		"location": "26.8467° N, 80.9462° E",
+		"profileImage": "https://i.pravatar.cc/150?img=",
+		"details": "A financial advisor in Lucknow."
+	},
+	{
+		"id": 10,
+		"firstName": "Rohan",
+		"lastName": "Gupta",
+		"address": "Jaipur",
+		"phone": "7700000000",
+		"location": "26.9124° N, 75.7873° E",
+		"profileImage": "https://i.pravatar.cc/150?img=",
+		"details": "A photographer living in Jaipur."
+	},
+	{
+		"id": 11,
+		"firstName": "Priya",
+		"lastName": "Chowdhury",
+		"address": "Patna",
+		"phone": "7400000000",
+		"location": "25.5941° N, 85.1376° E",
+		"profileImage": "https://i.pravatar.cc/150?img=",
+		"details": "A content writer based in Patna."
+	},
+	{
+		"id": 12,
+		"firstName": "Amit",
+		"lastName": "Verma",
+		"address": "Indore",
+		"phone": "8900000000",
+		"location": "22.7196° N, 75.8577° E",
+		"profileImage": "https://i.pravatar.cc/150?img=",
+		"details": "A chef working in Indore."
+	},
+	{
+		"id": 13,
+		"firstName": "Sophia",
+		"lastName": "Brown",
+		"address": "Chandigarh",
+		"phone": "9100000000",
+		"location": "30.7333° N, 76.7794° E",
+		"profileImage": "https://i.pravatar.cc/150?img=",
+		"details": "An architect living in Chandigarh."
+	},
+	{
+		"id": 14,
+		"firstName": "Akshay",
+		"lastName": "Mehta",
+		"address": "Nagpur",
+		"phone": "7800000000",
+		"location": "21.1458° N, 79.0882° E",
+		"profileImage": "https://i.pravatar.cc/150?img=",
+		"details": "An event manager based in Nagpur."
+	},
+	{
+		"id": 15,
+		"firstName": "Lakshmi",
+		"lastName": "Iyer",
+		"address": "Kochi",
+		"phone": "8800000000",
+		"location": "9.9312° N, 76.2673° E",
+		"profileImage": "https://i.pravatar.cc/150?img=",
+		"details": "A software developer in Kochi."
+	},
+	{
+		"id": 16,
+		"firstName": "Aryan",
+		"lastName": "Jain",
+		"address": "Surat",
+		"phone": "9900000000",
+		"location": "21.1702° N, 72.8311° E",
+		"profileImage": "https://i.pravatar.cc/150?img=",
+		"details": "A textile designer in Surat."
+	},
+	{
+		"id": 17,
+		"firstName": "Divya",
+		"lastName": "Nair",
+		"address": "Thiruvananthapuram",
+		"phone": "6600000000",
+		"location": "8.5241° N, 76.9366° E",
+		"profileImage": "https://i.pravatar.cc/150?img=",
+		"details": "A civil engineer in Thiruvananthapuram."
+	},
+	{
+		"id": 18,
+		"firstName": "Neha",
+		"lastName": "Arora",
+		"address": "Puducherry",
+		"phone": "7200000000",
+		"location": "11.9139° N, 79.8145° E",
+		"profileImage": "https://i.pravatar.cc/150?img=",
+		"details": "An artist living in Puducherry."
+	},
+	{
+		"id": 19,
+		"firstName": "Vivek",
+		"lastName": "Desai",
+		"address": "Vadodara",
+		"phone": "7600000000",
+		"location": "22.3072° N, 73.1812° E",
+		"profileImage": "https://i.pravatar.cc/150?img=",
+		"details": "A banker in Vadodara."
+	},
+	{
+		"id": 20,
+		"firstName": "Kavya",
+		"lastName": "Shetty",
+		"address": "Mangalore",
+		"phone": "8700000000",
+		"location": "12.9141° N, 74.8560° E",
+		"profileImage": "https://i.pravatar.cc/150?img=",
+		"details": "A professor at Mangalore University."
+	},
+	{
+		"id": 21,
+		"firstName": "Kiran",
+		"lastName": "Kumar",
+		"address": "Vadodara",
+		"phone": "9100000000",
+		"location": "22.3072° N, 73.1812° E",
+		"profileImage": "https://i.pravatar.cc/150?img=",
+		"details": "A marketing executive in Vadodara."
+	},
+	{
+		"id": 22,
+		"firstName": "Simran",
+		"lastName": "Gupta",
+		"address": "Goa",
+		"phone": "9900000000",
+		"location": "15.2993° N, 74.1240° E",
+		"profileImage": "https://i.pravatar.cc/150?img=",
+		"details": "A hospitality manager in Goa."
+	},
+	{
+		"id": 23,
+		"firstName": "Rita",
+		"lastName": "Verma",
+		"address": "Bhopal",
+		"phone": "7600000000",
+		"location": "23.2599° N, 77.4126° E",
+		"profileImage": "https://i.pravatar.cc/150?img=",
+		"details": "A legal advisor in Bhopal."
+	},
+	{
+		"id": 24,
+		"firstName": "Raj",
+		"lastName": "Singh",
+		"address": "Nagaland",
+		"phone": "9800000000",
+		"location": "26.1584° N, 94.5624° E",
+		"profileImage": "https://i.pravatar.cc/150?img=",
+		"details": "A writer based in Nagaland."
+	},
+	{
+		"id": 25,
+		"firstName": "Alok",
+		"lastName": "Mehrotra",
+		"address": "Shimla",
+		"phone": "9000000000",
+		"location": "31.1048° N, 77.1734° E",
+		"profileImage": "https://i.pravatar.cc/150?img=",
+		"details": "A software architect in Shimla."
+	},
+	{
+		"id": 26,
+		"firstName": "Sushila",
+		"lastName": "Yadav",
+		"address": "Ranchi",
+		"phone": "8500000000",
+		"location": "23.3441° N, 85.3096° E",
+		"profileImage": "https://i.pravatar.cc/150?img=",
+		"details": "A teacher in Ranchi."
+	},
+	{
+		"id": 27,
+		"firstName": "Harsh",
+		"lastName": "Patel",
+		"address": "Baroda",
+		"phone": "8300000000",
+		"location": "22.3072° N, 73.1812° E",
+		"profileImage": "https://i.pravatar.cc/150?img=",
+		"details": "A financial analyst in Baroda."
+	},
+	{
+		"id": 28,
+		"firstName": "Pooja",
+		"lastName": "Chaudhary",
+		"address": "Bhubaneswar",
+		"phone": "9200000000",
+		"location": "20.2961° N, 85.8189° E",
+		"profileImage": "https://i.pravatar.cc/150?img=",
+		"details": "A content creator in Bhubaneswar."
+	},
+	{
+		"id": 29,
+		"firstName": "Nilesh",
+		"lastName": "Patel",
+		"address": "Surat",
+		"phone": "7000000000",
+		"location": "21.1702° N, 72.8311° E",
+		"profileImage": "https://i.pravatar.cc/150?img=",
+		"details": "A mechanical engineer in Surat."
+	},
+	{
+		"id": 30,
+		"firstName": "Jaspreet",
+		"lastName": "Kaur",
+		"address": "Amritsar",
+		"phone": "9300000000",
+		"location": "31.6340° N, 74.8723° E",
+		"profileImage": "https://i.pravatar.cc/150?img=",
+		"details": "A public relations expert in Amritsar."
+	}
+]
