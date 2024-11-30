@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/girman/static/css/main.c264fa2b.css",
+    "main.js": "/girman/static/js/main.bed4762d.js",
+    "static/js/453.c2ee8d36.chunk.js": "/girman/static/js/453.c2ee8d36.chunk.js",
+    "index.html": "/girman/index.html",
+    "main.c264fa2b.css.map": "/girman/static/css/main.c264fa2b.css.map",
+    "main.bed4762d.js.map": "/girman/static/js/main.bed4762d.js.map",
+    "453.c2ee8d36.chunk.js.map": "/girman/static/js/453.c2ee8d36.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c264fa2b.css",
+    "static/js/main.bed4762d.js"
+  ]
+}
