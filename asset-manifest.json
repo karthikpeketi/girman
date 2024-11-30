@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/girmam/static/css/main.c264fa2b.css",
-    "main.js": "/girmam/static/js/main.6bbc23c7.js",
-    "static/js/453.c2ee8d36.chunk.js": "/girmam/static/js/453.c2ee8d36.chunk.js",
-    "index.html": "/girmam/index.html",
-    "main.c264fa2b.css.map": "/girmam/static/css/main.c264fa2b.css.map",
-    "main.6bbc23c7.js.map": "/girmam/static/js/main.6bbc23c7.js.map",
-    "453.c2ee8d36.chunk.js.map": "/girmam/static/js/453.c2ee8d36.chunk.js.map"
+    "main.css": "/girman/static/css/main.c264fa2b.css",
+    "main.js": "/girman/static/js/main.286b9fbc.js",
+    "static/js/453.c2ee8d36.chunk.js": "/girman/static/js/453.c2ee8d36.chunk.js",
+    "index.html": "/girman/index.html",
+    "main.c264fa2b.css.map": "/girman/static/css/main.c264fa2b.css.map",
+    "main.286b9fbc.js.map": "/girman/static/js/main.286b9fbc.js.map",
+    "453.c2ee8d36.chunk.js.map": "/girman/static/js/453.c2ee8d36.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c264fa2b.css",
-    "static/js/main.6bbc23c7.js"
+    "static/js/main.286b9fbc.js"
   ]
 }
