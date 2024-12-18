@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/girman/static/css/main.c264fa2b.css",
-    "main.js": "/girman/static/js/main.286b9fbc.js",
+    "main.css": "/girman/static/css/main.50960a4e.css",
+    "main.js": "/girman/static/js/main.4a721f05.js",
     "static/js/453.c2ee8d36.chunk.js": "/girman/static/js/453.c2ee8d36.chunk.js",
     "index.html": "/girman/index.html",
-    "main.c264fa2b.css.map": "/girman/static/css/main.c264fa2b.css.map",
-    "main.286b9fbc.js.map": "/girman/static/js/main.286b9fbc.js.map",
+    "main.50960a4e.css.map": "/girman/static/css/main.50960a4e.css.map",
+    "main.4a721f05.js.map": "/girman/static/js/main.4a721f05.js.map",
     "453.c2ee8d36.chunk.js.map": "/girman/static/js/453.c2ee8d36.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c264fa2b.css",
-    "static/js/main.286b9fbc.js"
+    "static/css/main.50960a4e.css",
+    "static/js/main.4a721f05.js"
   ]
 }
