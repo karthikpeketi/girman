@@ -1,29 +1,37 @@
 import React, { useContext } from "react";
 import { SearchIcon } from "../assets/Icons";
-import useWindowSize from "../hooks/useWindowSize";
 import { SearchContext } from "../context/SearchContext";
-
+import { useNavigate } from "react-router-dom";
 
 const InputSearch = () => {
-	const { width } = useWindowSize();
-
+	const navigate = useNavigate();
 	const { searchTerm, setSearchTerm } = useContext(SearchContext);
 
+	const handleOnEnterToSearch = (e) => {
+		e.preventDefault();
+		if (searchTerm.trim()) {
+			navigate(`/search?q=${searchTerm}`);
+		}
+	};
 
 	return (
-		<div className="relative">
+		<div className="bg-white flex items-center border text-[16px] md:text-[18px] pr-5 py-2 w-[280px] md:w-[420px] lg:w-[800px] min-h-[50px] max-h-[50px] rounded-md border-gray-300 outline-none">
+			<div className="flex items-center pl-[16px] pr-[16px] pointer-events-none">
+				<SearchIcon size={20} />
+			</div>
 			<input
 				type="text"
 				placeholder="Search..."
-				className="border text-[16px] md:text-[18px] px-10 py-2 w-[280px] md:w-[420px] lg:w-[800px] h-[50px] rounded-md border-gray-300 outline-none"
+				className="flex-1 text-black outline-none"
 				value={searchTerm}
-				onChange={(e) => {
-					setSearchTerm(e.target.value)
+				onChange={(e) => setSearchTerm(e.target.value)}
+				onKeyDown={(e) => {
+					if (e.key === "Enter") {
+						handleOnEnterToSearch(e);
+					}
 				}}
+				aria-label="Search input"
 			/>
-			<div className="absolute inset-y-0 left-0 flex items-center pl-[16px] pointer-events-none">
-				<SearchIcon size={width < 768 ? "15" : "16"} />
-			</div>
 		</div>
 	);
 };

@@ -6,6 +6,7 @@ import {
 	Navigate,
 } from "react-router-dom";
 import SearchPage from "./pages/SearchPage";
+import SearchResults from "./pages/SearchResults";
 import Header from "./pages/Header";
 import { SearchProvider } from "./context/SearchContext";
 
@@ -19,6 +20,7 @@ const App = () => {
 						<Routes>
 							<Route path="/" element={<Navigate to="/girman" replace />} />
 							<Route path="/girman" element={<SearchPage />} />
+							<Route path="/search" element={<SearchResults />} />
 						</Routes>
 					</div>
 				</div>

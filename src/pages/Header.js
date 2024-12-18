@@ -35,7 +35,7 @@ const Header = () => {
 			</button>
 
 			{width >= 768 && (
-				<nav className="flex gap-6 md:text-[18px] lg:text-[24px]">
+				<nav className="flex gap-6 md:text-[16px] lg:text-[20px] font-normal">
 					<a
 						href="/"
 						onClick={() => handleNavigation("/")}
@@ -55,13 +55,13 @@ const Header = () => {
 						href="https://linkedin.com/company/girmantech"
 						target="_blank"
 						rel="noopener noreferrer"
-						className="select-none hover:text-[#3063E6] border-b-2 border-transparent hover:border-blue-500 font-normal"
+						className="select-none hover:text-[#3063E6] border-b-2 border-transparent hover:border-blue-500"
 					>
 						LINKEDIN
 					</a>
 					<a
 						href="mailto:contact@girmantech.com"
-						className="select-none hover:text-[#3063E6] border-b-2 border-transparent hover:border-blue-500 font-normal"
+						className="select-none hover:text-[#3063E6] border-b-2 border-transparent hover:border-blue-500"
 					>
 						CONTACT
 					</a>
@@ -81,7 +81,7 @@ const Header = () => {
 
 					{/* Dropdown for mobile */}
 					{isMenuOpen && (
-						<div className="absolute top-14 right-8 bg-white shadow-lg rounded-lg p-4 z-50 flex flex-col gap-3 text-[12px]">
+						<div className="absolute top-14 right-8 bg-white shadow-lg rounded-lg p-4 flex flex-col gap-3 text-[12px]">
 							<a
 								href="/"
 								onClick={() => handleNavigation("/")}
